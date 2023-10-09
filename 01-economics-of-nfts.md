@@ -108,9 +108,23 @@ Trying to state this transaction in more general terms:
 - I'm happy because I get a unique art piece, even though I can't enforce this uniqueness in practice
 - Makersplace is happy because they have limited marginal costs per sale. According to their FAQ they spend between $3 and $15 in gas costs, ie. transaction costs to place the image reference on the Ethereum blockchain.
 
+This scheme only works if occasionally people are willing to spend money on NFTs, even if there is a non-zero chance that people will use their property for their own purposes.
+If no money flows into the ecosystem, makers and platform maintainers are not incentivised and both will disappear.
+
+What drives these buyers when they could effectively take the art for themselves without paying?
+I'm not entirely sure. All I can do is list my own considerations:
+
+- I was already in the market for art to decorate my home.
+- I do not know the author but I have a generalized feeling that creators should be compensated for their effort.
+- I was interested in the mechanics of NFT purchasing.
+- I don't view it as an investment.
+- at the same time, I do believe there is residual value if I want to free up some cash, but the market is illiquid right now
+- I do enjoy the idea that the piece on my wall is unique, even if I can't verify or enforce that in practice.
+
+
 ## Well, Maybe Not Everyone
 
-I made a bid on three other jellyfish.
+I bid on three other jellyfish.
 One bid was above the initial asking price and two bids were below the initial asking price.
 You're allowed to go below the initial asking price, but Makersplace does not display those lowball offers in their latest bids carousel.
 Clearly that's not something they want to emphasize; the only way ought to be up.
@@ -119,12 +133,15 @@ I can't tell if they did not like the bid or that they forgot they owned a digit
 
 The NFT market has [tanked](https://www.investmentmonitor.ai/crypto/nft-market-collapse-cryptocurrency-value/?cf-view), in terms of volume and price.
 Most of it was of poor quality!
-There is a literal sea of poorly created images, especially on [opensea](https://opensea.io/).
+There is a literal sea of cheaply created images, especially on [opensea](https://opensea.io/).
 
-It does not surprise me that nobody wants those.
+It does not surprise me that nobody wants those anymore.
+
+## Conclusion
 
 The question that remains: without any practical means of enforcing copyright and stripped of its get-rich-quick dynamics, is there still a place for NFTs?
 
 I'm tentatively positive that there is such a place for high quality art that you'd want to print and put up on your wall to look at.
+
 
 
