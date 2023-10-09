@@ -83,7 +83,7 @@ I probably would not bother.
 
 ### Gathering Evidence
 
-If someone were stupid enough to use jellyfish on the internet, I could probably find out with [reverse image search](https://tineye.com/search/2083364697ef99537010360ef63e91c7cc103876?sort=score&order=desc&page=1).
+If someone would use the jellyfish image on the internet, I could probably find out with [reverse image search](https://tineye.com/search/2083364697ef99537010360ef63e91c7cc103876?sort=score&order=desc&page=1).
 This reverse image search provider does not return a single result, where I would expect at least one: the thumbnail image on Makersplace.
 Knowing where an illicit copy of the image is hosted does not equate knowing who ~~owns~~ controls that hosted copy.
 
