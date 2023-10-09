@@ -1,0 +1,17 @@
+repos:
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v4.4.0
+    hooks:
+      - id: trailing-whitespace
+
+  - repo: https://github.com/tomrijntjes/codespell
+    # repo: https://github.com/codespell-project/codespell
+    rev: v2.2.6
+    hooks:
+    - id: codespell
+
+default_language_version:
+  python: python3.10
+
+fail_fast: false
+default_stages: [commit, push]

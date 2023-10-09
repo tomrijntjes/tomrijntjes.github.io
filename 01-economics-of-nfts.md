@@ -2,14 +2,14 @@
 title: Economics of NFTs
 filename: 01-economics-of-nfts.md
 date: October 9th 2023
---- 
+---
 
 # After The Hype
 
 Is there some protein to the proposition of non-fungible tokens?
 Now that the hype is over, I want to answer some questions for myself:
 
-1. are there good reasons to buy NFTs?
+1. are there good reasons to buy an NFT in 2023?
 1. is copyright enforced?
 1. is there any innovation of substance to NFTs?
 
@@ -18,10 +18,11 @@ Now that the hype is over, I want to answer some questions for myself:
 ## I Bought a JPEG of a Jellyfish
 
 This is it:
-![you jelly?](https://ipfsgateway.makersplace.com/ipfs/QmQym1BD9Rohcv6EYQECdJVxxWAFQG1cWZkCHsFhxrPPL7 | width=100)
 
-It cost me about $75 worth of Ethereum. 
-The image itself I could always access! 
+![you jelly?](./img/jelly.jpeg)
+
+It cost me about $75 worth of Ethereum.
+The [high resolution image](https://ipfsgateway.makersplace.com/ipfs/QmQym1BD9Rohcv6EYQECdJVxxWAFQG1cWZkCHsFhxrPPL7) I could always access!
 Just like you, you can download it and print it if you like.
 So what did the $75 buy me?
 
@@ -59,13 +60,13 @@ A far from exhaustive list:
 
 ### Territoriality
 
-I could convince a judge in the Netherlands that someone infringed on my copyrights. 
+I could convince a judge in the Netherlands that someone infringed on my copyrights.
 Actually enforcing that judgement is hard, because of the territoriality principle:
 
 > Territoriality Principle: Intellectual property rights, including copyright, patents, and trademarks, are generally territorial in nature. This  > means that they are granted and enforced within the boundaries of a specific country or jurisdiction.
 
-Let's say someone from Argentina downloads the JPEG above and prints it for personal use. 
-I somehow find out and convince a judge on my side of the pond that they are in the wrong. 
+Let's say someone from Argentina downloads the JPEG above and prints it for personal use.
+I somehow find out and convince a judge on my side of the pond that they are in the wrong.
 Now what? Is there a treaty regarding intellectual property between Argentina and the Netherlands?
 Even if there is, can the Argentinian law enforcement apparatus be bothered to identify this person and correct their behavior?
 I think they have more important things to do.
@@ -77,26 +78,26 @@ I asked Poe how much it would cost me but it [can't really tell](https://poe.com
 >Indicative Standards for IP Cases:
 >- Fairly simple injunction procedures: Maximum of €6,000
 
-That exceeds the nominal value of the thing by two orders of magnitude. 
+That exceeds the nominal value of the thing by two orders of magnitude.
 I probably would not bother.
 
 ### Gathering Evidence
 
 If someone were stupid enough to use jellyfish on the internet, I could probably find out with [reverse image search](https://tineye.com/search/2083364697ef99537010360ef63e91c7cc103876?sort=score&order=desc&page=1).
-Except that this reverse image search provider does not return a single result, where I would expect at least one: the thumbnail image on Makersplace.
+This reverse image search provider does not return a single result, where I would expect at least one: the thumbnail image on Makersplace.
 Knowing where an illicit copy of the image is hosted does not equate knowing who ~~owns~~ controls that hosted copy.
 
 ## It's a Nice Jellyfish, For Everyone Involved
 
 I printed the image for about €25 on acrylic glass.
-It looks very nice on my kitchen wall. 
+It looks very nice on my kitchen wall.
 The material really brings out the under water feeling.
 
 I'm happy because I got a unique art piece for roughly €100 in total.
-That's pretty far below the market. 
+That's pretty far below the market.
 I would estimate unique pieces of this size start around €300-ish.
 
-For the maker it's also a good deal. 
+For the maker it's also a good deal.
 He produced a series of 100 jellyfish with generative AI and made 50$ each.
 Makersplace takes 15%, so they made $750 off of this drop.
 That leaves $4250 for what I imagine was a couple of days' work. Not bad, [jrdsctt](https://makersplace.com/jrdsctt).
@@ -105,24 +106,24 @@ Trying to state this transaction in more general terms:
 - the maker had only 15% distribution cost to sell his artwork across the globe to up to 100 buyers
 - in terms of effort, the work ended with creating the images and minting the NFT. No trips to the printing press, nothing they had to leave the office for.
 - I'm happy because I get a unique art piece, even though I can't enforce this uniqueness in practice
-- Makersplace is happy because they limited marginal costs per sale - they claim between $3-$15 in gas costs.
+- Makersplace is happy because they have limited marginal costs per sale. According to their FAQ they spend between $3 and $15 in gas costs, ie. transaction costs to place the image reference on the Ethereum blockchain.
 
 ## Well, Maybe Not Everyone
 
-I made a bid on three other jellyfish. 
-Once above the initial asking price and twice below.
-You're allowed to go below the initial asking price, but Makersplace does not display those lowball offers in their latest bids carousel. 
+I made a bid on three other jellyfish.
+One bid was above the initial asking price and two bids were below the initial asking price.
+You're allowed to go below the initial asking price, but Makersplace does not display those lowball offers in their latest bids carousel.
 Clearly that's not something they want to emphasize; the only way ought to be up.
-I never got back from any of the three owners. 
+I never got back from any of the three owners.
 I can't tell if they did not like the bid or that they forgot they owned a digital jellyfish.
 
 The NFT market has [tanked](https://www.investmentmonitor.ai/crypto/nft-market-collapse-cryptocurrency-value/?cf-view), in terms of volume and price.
 Most of it was of poor quality!
-There is a literal sea of poorly created images, especially on [opensea](https://opensea.io/). 
+There is a literal sea of poorly created images, especially on [opensea](https://opensea.io/).
 
-It's no surprise that nobody wants those.
+It does not surprise me that nobody wants those.
 
-The question that remains: without any practical means of enforcing copyright and stripped of it's get-rich-quick dynamics, is there still a place for NFTs?
+The question that remains: without any practical means of enforcing copyright and stripped of its get-rich-quick dynamics, is there still a place for NFTs?
 
 I'm tentatively positive that there is such a place for high quality art that you'd want to print and put up on your wall to look at.
 
