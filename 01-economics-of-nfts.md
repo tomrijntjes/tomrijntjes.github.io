@@ -35,7 +35,7 @@ You're buying a limited edition digital creation, signed by the creator. Upon pu
 Upon purchase, you can access the high resolution digital file which you can display on any digital device or even print out, for personal use. All the while, knowing that you have the authentic piece, verifiable on the blockchain.
 ```
 
-I am not a lawyer. I like Poe's web search for legal questions:
+I am not a lawyer. I like [Poe's web search for legal questions](https://poe.com/s/Id15GjrqTMqT2UpoSJc5):
 
 > Under Dutch law, if someone uses, distributes, or displays a creation obtained from MakersPlace in violation of the non-commercial purposes restriction, you can take legal action to enforce your commercial rights. Here are the steps you can take:
 > 1. Gather evidence: Collect evidence that clearly demonstrates the infringement, such as screenshots, copies of communications, or any other relevant documentation.
