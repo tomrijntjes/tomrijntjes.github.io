@@ -1,4 +1,4 @@
-# Managing Distributed Teams
+# Managing Distributed Teams: Two Tenets
 
 *if you're interested in tools, take a look at the [list of tools](https://github.com/tomrijntjes/distributed-teams) I maintain.*
 
@@ -39,6 +39,7 @@ Having a temporal dimension to documentation is critical, because it allows futu
 - answer that question,
 - describe how that choice was made,
 - describe the context in which that choice was made.
+
 If the constraints have changed from the moment that the decision was made, perhaps it is possible to reconsider the choice. If not, that saves you an unproductive discussion.
 
 Another example:
