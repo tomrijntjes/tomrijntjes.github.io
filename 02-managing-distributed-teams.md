@@ -36,3 +36,15 @@ On all relevant metrics, team B outperformed team A, particularly:
 - good work-life balance
 
 It is notoriously difficult to measure team productivity but until the definitive research comes out, I'm confident that a culture of shipping and minimal overhead is the way to go.
+
+#######
+
+Tenets:
+- Everything as version controlled Markdown
+- Document how institutional knowledge evolved, not just its current state
+- Avoid tribal knowledge
+
+Tenets:
+- Collaborate effectively across timezones and cultures.
+- Minimize meetings but enable high-bandwidth communication
+- Output effectiveness over team cohesion
