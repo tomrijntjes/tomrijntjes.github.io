@@ -10,7 +10,7 @@ Is there some protein to the proposition of non-fungible tokens?
 Now that the hype is over, I want to answer some questions for myself:
 
 1. are there good reasons to buy an NFT in 2023?
-1. is copyright enforced?
+1. can copyright b enforced?
 1. is there any innovation of substance to NFTs?
 
 {:toc}
