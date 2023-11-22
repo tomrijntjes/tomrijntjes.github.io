@@ -1,5 +1,6 @@
-[Cloud Engineer](https://www.linkedin.com/in/tomrijntjes/), Amsterdam-based Human.
+[Cloud Engineer](https://www.linkedin.com/in/tomrijntjes/), Amsterdam-based human.
 
+[Curriculum Vitae](00-cv.md).
 
 Writing:
 
