@@ -13,22 +13,12 @@ The ideal engineer, however:
 ![engineer](./img/engineer.png)
 
 Unfortunately for you, there are endless opportunities for these profiles. 
-To understand how to find them and
 
 To understand where to find enterprising engineers it's informative to take their perspective. 
 You're a capable engineer born in the EU and you want to be rewarded for your talent. What do you do?
-1. Move to the US. Realistically most would-be engineers in EU do not flock to the US
+1. Move to the US. 
 1. Start a business or join a high-tech startup
 1. Go contracting
-
-
-How to attract tech talent if you're not FAANG? --> you pay top dollar or you settle for less-than-stellar talent
-
-It may seem impossible to build a top-notch tech team in the EU. 
-
-1. you want bleeding edge tech, most of which comes from the US. Where do you find engineers that somehow have had exposure to the latest and greatest?
-1. US tech salaries are crazy. How do you compete with that?
-1. where are all the enterprising engineers?
 
 
 There are key differences between the US and EU:
@@ -45,9 +35,4 @@ Two strategies:
 work with less enterprising engineers by padding teams with supporting roles. 
 work with global contractors
 
-To understand where to find enterprising engineers it's informative to take their perspective. 
-You're a capable engineer born in the EU and you want to be rewarded for your talent. What do you do?
-1. Move to the US. Realistically most would-be engineers in EU do not flock to the US
-1. Start a business or join a high-tech startup
-1. Go contracting
-
+even though I believe the above, I don't think the angle is going to work with offending a whole lot of great quality salaried engineers.
