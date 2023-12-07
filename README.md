@@ -1,4 +1,10 @@
-[Cloud Engineer](https://www.linkedin.com/in/tomrijntjes/), Amsterdam-based human.
+Amsterdam-based cloud engineer. 
+
+Available as of March 2024 for freelance contracts or permanent employment as founding engineer.
+
+- Remote 
+- Hybrid in the Randstad area in the Netherlands
+- On-site in Amsterdam
 
 [Curriculum Vitae](00-cv.md).
 
