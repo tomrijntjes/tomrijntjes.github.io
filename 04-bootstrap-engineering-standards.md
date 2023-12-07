@@ -1,6 +1,6 @@
 # Bootstrap Engineering Standards
 
-Congratulations, you have a rough idea of what you want to build and which people you need to do it.
+Congratulations, you have know what you want to build and which people you need to do it.
 
 How do you avoid building an unsustainable mess? The next legacy codebase?
 
@@ -8,20 +8,12 @@ Top teams set engineering standards early without bogging down engineers in bure
 
 To keep momentum with stakeholders, the key idea is to start delivering value now without setting yourself up for failure later.
 
-## Focus on code in production
-
-especially in the early phases when everything is unclear, make sure to build **operational excellence** by rewarding working code in production over slideware. 
-
-> slideware: software that only exists in powerpoint form
-
-If you build it, you run it. This enables engineers to learn from architectural choices if they are responsible for keeping it running.
-
 ## Decide Fast, on Record
 
-Do not wait for the next slot in the agenda where all key stakeholders are available. Instead, draft a decision and send it around for review. 
+Do not wait for all key stakeholders to become available. Instead, draft a decision and send it around for review. 
 This is better for a number of reasons:
-- asynchronous communication is faster in large groups
 - give people time to research all options, leading to higher quality choices
+- asynchronous communication is more flexible and often faster
 - help future joiners understand why you went in a certain direction, and if there's space to come back to that choice
 
 It's tempting to draw in all engineers for every consequential choice, especially when you start with a small team. 
@@ -37,6 +29,14 @@ However, some modern practices are hard to install once the product organization
 - infrastructure as code
 - continuous integration/continuous delivery 
 - centralized master data and reference data
+
+## Focus on code in production
+
+Especially in the early phases when everything is unclear, make sure to build **operational excellence** by rewarding working code in production over slideware. 
+
+> slideware: software that only exists in powerpoint form
+
+If you build it, you run it. This is the best way to avoid an unmaintainable codebase.
 
 ### Infra as Code
 
@@ -58,9 +58,9 @@ Create a shared data model and update it as the product suite evolves.
 
 If you think you know which capabilities you will need three years down the road, you are probably mistaken. 
 Priorities will change, new insights will crush expectations and open up possibilities beyond imagining. 
-If you can build an agile product team, you have to hire for agility too. 
+If you want to build an agile product team, you have to hire for agility. 
 
 To be specific:
 - hire senior individual contributors first. They can help with setting hiring standards.
-- contractors are used to delivering value quickly, and are happy to move on if your needs change.
+- contractors are used to delivering value quickly, and are happy to move on when your needs change.
 - prioritise generalists over specialists at first
