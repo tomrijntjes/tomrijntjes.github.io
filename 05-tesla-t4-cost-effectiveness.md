@@ -5,16 +5,18 @@ There many options for running ETL code with GPU acceleration, for example:
 - [Dask](https://docs.dask.org/en/stable/)
 - [cudf.Pandas](https://rapids.ai/cudf-pandas/)
 
-If you're considering adopting one of these frameworks, one of the first questions you'll encounter is: which VM is the most cost-effective for my workload?
+If you're considering adopting one of these frameworks for your cloud environment, one of the first questions you'll encounter is: which VM is the most cost-effective for my workload?
 
 ## Performance versus Cost
 
 Among the CompuBench tests, the "N-Body simulation" benchmarks are likely the most relevant for predicting cuDF performance. These tests involve complex calculations and data manipulations similar to operations performed in cuDF, which is designed for data frame manipulation and analysis. 
 
+I also briefly considered pricing for other cloud providers; differences are minor and I'm most familiar with Azure. 
+All prices are Azure $ per hour pay-as-you-go UK South.
 
 ![](./img/gpu-cost-vs-performance-nbody.png)
 
-| GPU        | SKU                 | Instance        | Azure $ per hour pay-as-you-go UK South | N-Body simulation – 1024k - iterations/s | iterations/h | $/billion iterations | 
+| GPU        | SKU                 | Instance        | $ per hour | iterations/s | iterations/h | $/billion iterations | 
 |------------|---------------------|-----------------|-----------------------------------------|-----------------------------------------|--------------|----------------------|
 | T4         | NCas_T4_v3-series   | NC4as T4 v3     |                                   0,615 |                                   54082 |    194695200 |          3,158783576 | 
 | V100 16 GB | NCv3-series         | NC6s v3         |                                   3,589 |                                  123497 |    444589200 |          8,072620747 |    
@@ -65,5 +67,5 @@ The T4 is designed for efficiency and has a lower power draw compared to the A10
 
 ## Sources
 
-1. Benchmarks from [Compubench](https://compubench.com)
+1. Benchmarks from [Compubench](https://compubench.com), N-Body simulation – 1024k.
 1. Nvidia [release dates](https://en.wikipedia.org/wiki/List_of_Nvidia_graphics_processing_units) from wikipedia
