@@ -30,7 +30,7 @@ We can look at the closest non-GPU backed alternative to the T4 with 4 vCPUs, 28
 Yifeng Jiang achieved a [4x performance increase](https://uprush.medium.com/accelerating-apache-spark-with-rapids-on-gpu-27b2b8a77344) with GPU-accelerated Spark-Rapids on an A10. 
 Of course, the A10 is a more performant machine.
 
-Let's assume we can generalize the performance of the T4 versus the performance of the A10 on the Nbody benchmark to dataframe processing.
+Let's assume we can extrapolate the performance of the T4 versus the performance of the A10 on the Nbody benchmark to dataframe processing.
 
 |                                               |             |
 |-----------------------------------------------|-------------|
