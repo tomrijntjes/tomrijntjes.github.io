@@ -8,28 +8,36 @@ When running a remote team, there are some key differences with running a coloca
 - your team members have access to a global job marketplace
 - you can't bond over beers
 
-I tried to capture my personal experience with working in two very different remote software teams for two years each in two simple tenets. Here they are:
+I tried to capture my personal experience with working in two very different remote software teams for two years each in one simple tenet: **build capabilities, not teams**. 
 
-- You're not going to be friends. Prioritize effectiveness over team cohesion
-- Write it down. Emphasize transparency in the form of written documentation.
+## Start Building Capabilities
 
-## We Are Not Going to be Friends
+If you accept a relatively high turnover, priorities change. 
+Your processes should focus on building capabilities. 
 
-I've been a part of two software teams that took opposite approaches. Team A took the office-based model and implemented it online. The overhead in terms of alignment meetings somehow increased: a large part of consensus building could no longer take place at the coffee machine so people felt that this is a good reason to meet more often.
+By that I mean knowing how to do stuff on a team level. You do that by 
+- making onboarding as smooth and informative as possible, 
+- agressively sharing knowledge and 
+- avoiding loss of knowledge when someone leaves
 
-Team B took a different approach: hold the minimal amount of recurring meetings (roughly 6 hours per week) and do absolutely nothing to 'build' the team. All other communication took place asynchronously. If the need for alignment, knowledge-sharing or collaborative problem solving arises, an ad-hoc call would be arranged.
+### Onboarding
 
-On all relevant metrics, team B outperformed team A, particularly:
-- high velocity
-- low churn
-- work-life balance
+To be honest, I don't know how to do this well because *every single company* I worked for in the remote era bungled it. 
 
-Was it horrible to work in team B?
-When people reliably tackle hard problems together, relationships deepen based on respect for what the other can do. It's an entirely different type of connection to bonding over team activities, shared aspects of personal lives and non-professional interests.
+The good news is, standards are so low it's not that hard to stand out as an employer.
 
-## Everything as Version-Controlled Markdown
+The following tips are all reversals of what I've seen going wrong:
+- provide hardware on time, or support bringing your own device.
+- give people a basic sense of where they sit in the organization, especially if you work for a large enterprise.
+- prepare entry-level task, even for senior staff.
+- assign someone to pair program with on a task.
+- have a clear entrypoint to the documentation, at least containing functional/commercial objectives, architecture diagrams, and a map of the rest of the documentation.
 
-Due to difficulties with timezones and general unpleasantness of being in a conference call, emphasize asynchronous written communication through instant messaging and version-controlled markdown.
+### Everything as Version Controlled Markdown
+
+A large part of building team capabilties is having high standards for documentation.
+
+Especially given difficulties with timezones, emphasize asynchronous written communication through instant messaging and version-controlled markdown.
 
 1. Capture technical details close to the code in module-level READMEs.
 1. Large decisions that are expensive to revert must be captured in [ADRs](https://adr.github.io/).
@@ -45,4 +53,29 @@ If the constraints have changed from the moment that the decision was made, perh
 Another example:
 An engineer wants to invest considerable resources in a certain category of tech debt. The collection of post-mortems immediately tells you whether that investment is justified. Which incidents would the change have prevented? If so, what would have been the business impact of avoiding those issues?
 
-There is an interesting connection to the other tenet. Transparency and merit-based collaboration are two sides of the same coin. Good documentation makes it absolutely clear which ideas are contributed by whom. No longer shall the loudest in the room get the credit. Expect a tyranny of the expert writer.
+## Stop Building Teams
+
+### Reduce Overhead Agressively
+
+I've been a part of two software teams that took opposite approaches. Team A took the office-based model and implemented it online. The overhead in terms of alignment meetings somehow increased: a large part of consensus building could no longer take place at the coffee machine so people felt that this is a good reason to meet more often.
+
+Team B took a different approach: hold the minimal amount of recurring meetings (roughly 6 hours per week) and do absolutely nothing to 'build' the team. All other communication took place asynchronously. If the need for alignment, knowledge-sharing or collaborative problem solving arises, an ad-hoc call would be arranged.
+
+On all relevant metrics, team B outperformed team A, particularly:
+- high velocity
+- low churn
+- good work-life balance
+
+Was it horrible to work in team B?
+When people reliably tackle hard problems together, relationships deepen based on respect for what the other can do. 
+It's an entirely different type of connection to bonding over team activities, shared aspects of personal lives and non-professional interests.
+
+### Cultural Affinity (still) matters
+
+A contentious standpoint perhaps, but I think it's too important not to mention. 
+It's not impossible to work closely together with people from incompatible cultural backgrounds, but it takes longer to build the trust you need for a high performing team.
+You don't always have that time, especially if you assume I relatively high turnover.
+
+Does that mean you should discriminate based on the color of someone's skin or a person's sexual preference? Absolutely not.
+Does that mean that if you know in your bones this person will not gel well in the team, whatever that means, it's sufficient reason to pick another candidate? I think that can be justified.
+
