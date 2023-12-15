@@ -1,4 +1,4 @@
-# Managing Distributed Teams: Two Tenets
+# Managing Distributed Teams
 
 *if you're interested in tools, take a look at the [list of tools](https://github.com/tomrijntjes/distributed-teams) I maintain.*
 
