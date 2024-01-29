@@ -74,7 +74,7 @@ It's an entirely different type of connection to bonding over team activities, s
 
 A contentious standpoint perhaps, but I think it's too important not to mention. 
 It's not impossible to work closely together with people from incompatible cultural backgrounds, but it takes longer to build the trust you need for a high performing team.
-You don't always have that time, especially if you assume I relatively high turnover.
+You don't always have that time, especially if you assume relatively high turnover.
 
 Does that mean you should discriminate based on the color of someone's skin or a person's sexual preference? Absolutely not.
 Does that mean that if you know in your bones this person will not gel well in the team, whatever that means, it's sufficient reason to pick another candidate? I think that can be justified.

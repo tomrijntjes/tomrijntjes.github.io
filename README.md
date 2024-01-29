@@ -11,7 +11,7 @@ Available as of March 2024 for freelance contracts or permanent employment as fo
 Writing:
 
 
-
+1. [Dignified Deallocation](06-dignified-deallocation.md)
 1. [T4 Cost Effectiveness Analysis](05-tesla-t4-cost-effectiveness.md)
 1. [Bootstrap Engineering Standards](04-bootstrap-engineering-standards.md)
 1. [Managing Distributed Teams: Build Capabilities, not Teams](03-distributed-teams-tenet.md)
