@@ -5,8 +5,8 @@ I've been interviewing for a new role lately and in enterprise land there seem t
 2. software development in our organization is stifled by bureaucracy. We'd like to decentralize so it becomes possible to innovate.
 
 Paraphrasing:
-1. we want a homogenous software landscape
-2. we want a heterogenous software landscape
+1. we want a more homogenous software landscape
+2. we want a more heterogenous software landscape
 
 This tension field is ubiquitous and I'm still trying to make sense of it. 
 
@@ -22,6 +22,19 @@ However, the prescribed tools are an unwanted constraint for solving the enginee
 
 Reinventing the wheel is so obviously stupid it is a powerful cognitive stop. OF COURSE we want people to build of each other's work, avoid double work, leverage progress, etcetera. 
 However, software products are often superficially similar in reality and do not benefit much from standardization at all. One-size-fits-nobody.
+
+I like this explanation because during interviews the hiring manager so completely embodies one of the two perspectives it's impossible to ask critical questions. 
+When I ask what kind of pains come from the excessively heterogenous software landscape I get no real answer.
+When I ask the same for an overly centralized landscape, the pain is often clear: we can't get anything done on time because of bureaucracy. Maybe I'm biased because this perspective favors engineers.
+
+I realize I use the words centralized and homogenous interchangeable. Can I define them more precisely?
+
+|              | centralized            | federated        |
+|--------------|------------------------|------------------|
+| homogenous   | design by committee    | software factory |
+| heterogenous | innovation and quality | creative chaos   |
+
+
 
 ## Maturity
 
