@@ -10,7 +10,7 @@ Available as of March 2024 for freelance contracts or permanent employment as fo
 
 Writing:
 
-
+1. [Please Reinvent the Wheel](07-please-reinvent-the-wheel.md)
 1. [Dignified Deallocation](06-dignified-deallocation.md)
 1. [T4 Cost Effectiveness Analysis](05-tesla-t4-cost-effectiveness.md)
 1. [Bootstrap Engineering Standards](04-bootstrap-engineering-standards.md)
