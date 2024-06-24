@@ -1,5 +1,3 @@
-Amsterdam-based cloud engineer.
-
 Available as of October 2024 as technical cofounder.
 
 - Remote
