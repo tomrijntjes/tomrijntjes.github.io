@@ -1,8 +1,8 @@
-Amsterdam-based cloud engineer. 
+Amsterdam-based cloud engineer.
 
-Available as of March 2024 for freelance contracts or permanent employment as founding engineer.
+Available as of October 2024 as technical cofounder.
 
-- Remote 
+- Remote
 - Hybrid in the Randstad area in the Netherlands
 - On-site in Amsterdam
 
