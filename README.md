@@ -9,6 +9,7 @@ Available as of October 2024 as technical cofounder.
 Writing:
 
 
+1. [One Man Unicorn](07-one-man-enterprise.md)
 1. [Dignified Deallocation](06-dignified-deallocation.md)
 1. [T4 Cost Effectiveness Analysis](05-tesla-t4-cost-effectiveness.md)
 1. [Bootstrap Engineering Standards](04-bootstrap-engineering-standards.md)
