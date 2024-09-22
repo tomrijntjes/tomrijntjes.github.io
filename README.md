@@ -1,4 +1,6 @@
-Available as of October 2024 as technical cofounder.
+If you enjoy my writing, follow me on [LinkedIn](https://www.linkedin.com/in/tomrijntjes/). It's the only place where I advertise new posts.
+
+Available as of October 2024 as contractor or technical cofounder.
 
 - Remote
 - Hybrid in the Randstad area in the Netherlands
